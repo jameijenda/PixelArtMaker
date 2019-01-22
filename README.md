@@ -1,16 +1,6 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+This project was an Udacity Front End Nanodegree project which focused on how to use jquery to target and modify DOM elements.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+Just choose your grid size, your desired color and you're ready to go!
 
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
